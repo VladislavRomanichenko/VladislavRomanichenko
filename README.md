@@ -13,7 +13,7 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **ComputerVision, MachineLearning**
+- 🌱 I’m currently learning **ComputerVision, MachineLearning, Algorithm for Robotics**
 
 ---
 
